@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+*.log
+explorations
+TODOs.md
+RELEASE_NOTE*.md
+.vscode
+dist
+temp
+types/v3-generated.d.ts
+.vscode
+target/
